@@ -1,1 +1,1 @@
-print('Hello world and GitHub AAAA!')
+print('Hello world and GitHub GUUUBs!')
